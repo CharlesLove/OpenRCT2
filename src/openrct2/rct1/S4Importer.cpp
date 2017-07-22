@@ -2044,7 +2044,6 @@ private:
         {
             gCheatsUnlockAllPrices = true;
         }
-        // Default Loopy Landscapes to unlock all prices being false
         else
         {
             gCheatsUnlockAllPrices = false;
